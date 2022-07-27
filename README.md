@@ -2,7 +2,7 @@
 - 👀 I’m interested in all sorts of stuff.
 - 🌱 I’m currently learning ASP.NET Core, React Native, Xamarian and Spring Boot
 - 💞️ I’m looking to collaborate on my UE5 game.
-- 📫 How to reach me please don't.
+- 📫 How to reach me: if I want you to contact me, you already have my details
 
 <!---
 Azrael-Studios/Azrael-Studios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
