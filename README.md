@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Azrael-Studios
+- 👋 Hi, I’m @IsaacCooke
 - 👀 I’m interested in all sorts of stuff.
-- 🌱 I’m currently learning ASP.NET Core, React Native and Flutter
+- 🌱 I’m not currently learning ASP.NET Core, React Native and Flutter
 - 💞️ I’m looking to collaborate on my Unity game.
 - 📫 How to reach me: if I want you to contact me, you already have my details
 
